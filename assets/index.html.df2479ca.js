@@ -1,1 +1,0 @@
-const t={key:"v-6229b45f",path:"/front-end/ts/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1653232715e3,updatedTime:1653232715e3,contributors:[{name:"Wang Shicong",email:"550155586@qq.com",commits:1}]},readingTime:{minutes:0,words:1},copyright:"\u8457\u4F5C\u6743\u5F52\u6240\u6709",filePathRelative:"front-end/ts/README.md"};export{t as data};
