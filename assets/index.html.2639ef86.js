@@ -1,0 +1,1 @@
+const e={key:"v-7e388d7c",path:"/front-end/node/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{createdTime:165379728e4,updatedTime:165379728e4,contributors:[{name:"Wang Shicong",email:"550155586@qq.com",commits:1}]},readingTime:{minutes:0,words:1},copyright:"\u8457\u4F5C\u6743\u5F52\u6240\u6709",filePathRelative:"front-end/node/README.md"};export{e as data};
