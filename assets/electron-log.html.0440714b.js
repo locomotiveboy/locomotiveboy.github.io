@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o,c as r}from"./app.79580b17.js";const t={};function c(l,n){return o(),r("p",null,"electron-log")}var f=e(t,[["render",c],["__file","electron-log.html.vue"]]);export{f as default};
